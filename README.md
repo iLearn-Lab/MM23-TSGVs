@@ -1,5 +1,14 @@
 <h1 align="center"> <a href=https://arxiv.org/abs/2308.07102>Temporal Sentence Grounding in Streaming Videos</a></h2>
 
+## Authors
+
+**Tian Gan**<sup>1</sup>, **Xiao Wang**<sup>2</sup>, **Yan Sun**<sup>1</sup>, **Jianlong Wu**<sup>2</sup>*, **Qingpei Guo**<sup>3</sup>, **Liqiang Nie**<sup>2</sup>
+
+<sup>1</sup> `Shandong University`  
+<sup>2</sup> `Harbin Institute of Technology, Shenzhen`  
+<sup>3</sup> `Ant Group`  
+* Corresponding author
+
 ## Introduction
 
 Implementation of paper `Temporal Sentence Grounding in Streaming Videos` (Accepted by ACM Multimedia 2023).
